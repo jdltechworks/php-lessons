@@ -14,4 +14,8 @@ print "\n Odd numbers: ". implode(' ', $odd) ."\n";
 
 print "\n Even numbers: ". implode(' ', $even) ."\n";
 
+echo "palang \n";
+echo "hellow \n";
+
+
 ?>
